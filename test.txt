@@ -1,0 +1,5 @@
+F1     P2     B--A*
+F2     P6     D--C*
+F3     P5     E--B*
+F4     P7     F--D*
+F5     P6     D--X*
